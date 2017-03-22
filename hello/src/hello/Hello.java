@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("Hello octocat!");
 		System.out.println("This is version 2!");
 		System.out.println("This is version 3!");
+		System.out.println("This is version 4!");
 	}
 }
